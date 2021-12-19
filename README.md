@@ -1,9 +1,6 @@
-#
-#  Nanda Afrido H.
-#
-#   (*￣▽￣)b
-#
-#
+  Nanda Afrido H.
+   (*￣▽￣)b
+
 <!--
 **nnda-a/nnda-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
