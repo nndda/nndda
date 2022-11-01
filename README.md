@@ -1,5 +1,5 @@
-## 👋 mmmm (*￣▽￣)b
+## 👋(*￣▽￣)b
 
-- 🔭 Currently trying some new things
-- 🎨 Sometimes do digital arts
-- 🎵 Love rhythm games
+- Made some games on [itch.io](https://nnda.itch.io).
+- Sometimes do [digital arts](https://www.artstation.com/nnda).
+- Like [rhythm game](https://osu.ppy.sh/users/10614731).
