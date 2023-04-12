@@ -9,9 +9,8 @@ var me := {
              "Digital Art"
              ] }
 
-func ImDoing():
-  print(
-    "I am currently doing ", me.stuff.pick_random() )
+func ImDoing(): print(
+  "I am currently doing ", me.stuff.pick_random() )
 
 ```
 
