@@ -11,7 +11,7 @@ var me := {
              "Digital Art"
              ] }
 
-func ImDoing(): print(
+func im_doing(): print(
   "I am currently doing ", me.stuff.pick_random() )
 
 ```
