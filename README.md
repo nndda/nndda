@@ -19,22 +19,22 @@ func im_doing(): print(
 ## Tools & Languages
 
 &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/godotengine"/> &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/css3"/> &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5"/> &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript"/> &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/python"/> &nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/godotengine/3BE6F9"/> &nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/css3/34C8D9"/> &nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5/2EA9B8"/> &nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/278B98"/> &nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/python/216C78"/> &nbsp;
 </br>
 
 ## Links & Socials
 
 <div>
 &nbsp;
-<a href="https://nnda.itch.io"><img height="32" width="32" src="https://cdn.simpleicons.org/itchdotio"/> &nbsp; </a>
-<a href="https://www.instagram.com/nnda.afrd"><img height="32" width="32" src="https://cdn.simpleicons.org/instagram"/> &nbsp; </a>
-<a href="https://ko-fi.com/nnda_"><img height="32" width="32" src="https://cdn.simpleicons.org/kofi"/> &nbsp; </a>
-<a href="https://codepen.io/nnda"><img height="32" width="32" src="https://cdn.simpleicons.org/codepen/fff"/> &nbsp; </a>
-<a href="https://www.artstation.com/nnda"><img height="32" width="32" src="https://cdn.simpleicons.org/artstation"/> &nbsp; </a>
+<a href="https://nnda.itch.io"><img height="32" width="32" src="https://cdn.simpleicons.org/itchdotio/FC3A78"/> &nbsp; </a>
+<a href="https://www.instagram.com/nnda.afrd"><img height="32" width="32" src="https://cdn.simpleicons.org/instagram/DA346A"/> &nbsp; </a>
+<a href="https://ko-fi.com/nnda_"><img height="32" width="32" src="https://cdn.simpleicons.org/kofi/B82E5C"/> &nbsp; </a>
+<a href="https://codepen.io/nnda"><img height="32" width="32" src="https://cdn.simpleicons.org/codepen/96284E"/> &nbsp; </a>
+<a href="https://www.artstation.com/nnda"><img height="32" width="32" src="https://cdn.simpleicons.org/artstation/732341"/> &nbsp; </a>
 </div>
 </br>
 
