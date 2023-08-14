@@ -1,8 +1,8 @@
 
 ```gdscript
-class_name AboutMe
+class_name Me extends CharacterBody2D
 
-var me := {
+var my := {
   name     = "nanda",
   location = "id",
   stuff    = [
@@ -12,7 +12,7 @@ var me := {
              ] }
 
 func im_doing(): print(
-  "I am currently doing ", me.stuff.pick_random() )
+  "I am currently doing ", my.stuff.pick_random() )
 
 ```
 
@@ -20,10 +20,12 @@ func im_doing(): print(
 
 &nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/godotengine/3BE6F9"/> &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/css3/34C8D9"/> &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5/2EA9B8"/> &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/278B98"/> &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/216C78"/> &nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/python/54E8DA"/> &nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/css3/6EEBBB"/> &nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5/88EE9C"/> &nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/A2F17D"/> &nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/csharp/BCF45E"/> &nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/D5F740"/> &nbsp;
 </br>
 
 ## Links & Socials
@@ -31,10 +33,11 @@ func im_doing(): print(
 <div>
 &nbsp;
 <a href="https://nnda.itch.io"><img height="32" width="32" src="https://cdn.simpleicons.org/itchdotio/FC3A78"/> &nbsp; </a>
-<a href="https://www.instagram.com/nnda.afrd"><img height="32" width="32" src="https://cdn.simpleicons.org/instagram/DA346A"/> &nbsp; </a>
-<a href="https://ko-fi.com/nnda_"><img height="32" width="32" src="https://cdn.simpleicons.org/kofi/B82E5C"/> &nbsp; </a>
-<a href="https://codepen.io/nnda"><img height="32" width="32" src="https://cdn.simpleicons.org/codepen/96284E"/> &nbsp; </a>
-<a href="https://www.artstation.com/nnda"><img height="32" width="32" src="https://cdn.simpleicons.org/artstation/732341"/> &nbsp; </a>
+<a href="https://www.instagram.com/nnda.afrd"><img height="32" width="32" src="https://cdn.simpleicons.org/instagram/EA3B91"/> &nbsp; </a>
+<a href="https://ko-fi.com/nnda_"><img height="32" width="32" src="https://cdn.simpleicons.org/kofi/D83CAA"/> &nbsp; </a>
+<a href="https://codepen.io/nnda"><img height="32" width="32" src="https://cdn.simpleicons.org/codepen/C73DC4"/> &nbsp; </a>
+<a href="https://www.artstation.com/nnda"><img height="32" width="32" src="https://cdn.simpleicons.org/artstation/B53EDD"/> &nbsp; </a>
+<a href="https://www.artstation.com/nnda"><img height="32" width="32" src="https://cdn.simpleicons.org/deviantart/A43FF7"/> &nbsp; </a>
 </div>
 </br>
 
