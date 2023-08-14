@@ -16,16 +16,27 @@ func im_doing(): print(
 
 ```
 
-## Tools & Languages
+## Languages
+
+&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/python/FCE217" alt="Python"/> &nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5/F6C917"/> &nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/css3/F0B018"/> &nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/EA9819"/> &nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/sass/E47F1A"/> &nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/csharp/DE661B"/> &nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/D94E1C"/> &nbsp;
+</br>
+
+## Tools & Frameworks
 
 &nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/godotengine/3BE6F9"/> &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/54E8DA"/> &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/css3/6EEBBB"/> &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5/88EE9C"/> &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/A2F17D"/> &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/csharp/BCF45E"/> &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/D5F740"/> &nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/aseprite/37CAF4"/> &nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/sublimetext/34AEF0"/> &nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/3092EB"/> &nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/2D76E7"/> &nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/2A5BE3"/> &nbsp;
 </br>
 
 ## Links & Socials
