@@ -1,13 +1,13 @@
 
 <div align="center">
 
-please help!
+<h3> please help! </h3>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L536B9Z)
+<a href="https://ko-fi.com/L3L536B9Z"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"/> &nbsp; </a>
 
 </div>
 
-<br>
+<hr>
 
 ```gdscript
 class_name Me extends CharacterBody2D
