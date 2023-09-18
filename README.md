@@ -1,4 +1,14 @@
 
+<div align="center">
+
+please help!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L536B9Z)
+
+</div>
+
+<br>
+
 ```gdscript
 class_name Me extends CharacterBody2D
 
