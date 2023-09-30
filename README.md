@@ -50,11 +50,12 @@ func im_doing(): print(
 <div>
 &nbsp;
 <a href="https://nnda.itch.io"><img height="32" width="32" src="https://cdn.simpleicons.org/itchdotio/FC3A78" alt="Itch.io"/> &nbsp; </a>
-<a href="https://www.instagram.com/nnda.afrd"><img height="32" width="32" src="https://cdn.simpleicons.org/instagram/EA3B91" alt="Instagram"/> &nbsp; </a>
-<a href="https://ko-fi.com/nnda_"><img height="32" width="32" src="https://cdn.simpleicons.org/kofi/D83CAA" alt="Ko-fi"/> &nbsp; </a>
-<a href="https://codepen.io/nnda"><img height="32" width="32" src="https://cdn.simpleicons.org/codepen/C73DC4" alt="CodePen"/> &nbsp; </a>
-<a href="https://www.artstation.com/nnda"><img height="32" width="32" src="https://cdn.simpleicons.org/artstation/B53EDD" alt="ArtStation"/> &nbsp; </a>
-<a href="https://www.artstation.com/nnda"><img height="32" width="32" src="https://cdn.simpleicons.org/deviantart/A43FF7" alt="DeviantArt"/> &nbsp; </a>
+<a href="https://www.instagram.com/nnda.afrd"><img height="32" width="32" src="https://cdn.simpleicons.org/instagram/ED3A8D" alt="Instagram"/> &nbsp; </a>
+<a href="https://mastodon.art/@nnda"><img height="32" width="32" src="https://cdn.simpleicons.org/mastodon/DE3BA2" alt="Mastodon"/> &nbsp; </a>
+<a href="https://ko-fi.com/nnda_"><img height="32" width="32" src="https://cdn.simpleicons.org/kofi/D03CB7" alt="Ko-fi"/> &nbsp; </a>
+<a href="https://codepen.io/nnda"><img height="32" width="32" src="https://cdn.simpleicons.org/codepen/C13DCC" alt="CodePen"/> &nbsp; </a>
+<a href="https://www.artstation.com/nnda"><img height="32" width="32" src="https://cdn.simpleicons.org/artstation/B23EE1" alt="ArtStation"/> &nbsp; </a>
+<a href="https://www.artstation.com/nnda"><img height="32" width="32" src="https://cdn.simpleicons.org/deviantart/A43FF6" alt="DeviantArt"/> &nbsp; </a>
 </div>
 </br>
 
