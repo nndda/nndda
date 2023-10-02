@@ -1,6 +1,6 @@
 <div align="center">
 <h3> please help! </h3>
-<a href="https://ko-fi.com/L3L536B9Z"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"/> &nbsp; </a>
+<a href="https://ko-fi.com/L3L536B9Z"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"/></a>&nbsp;
 </div>
 
 <hr>
@@ -49,13 +49,13 @@ func im_doing(): print(
 
 <div>
 &nbsp;
-<a href="https://nnda.itch.io"><img height="32" width="32" src="icons/itchdotio.svg" alt="Itch.io"/> &nbsp; </a>
-<a href="https://www.instagram.com/nnda.afrd"><img height="32" width="32" src="icons/instagram.svg" alt="Instagram"/> &nbsp; </a>
-<a href="https://mastodon.art/@nnda"><img height="32" width="32" src="icons/mastodon.svg" alt="Mastodon"/> &nbsp; </a>
-<a href="https://ko-fi.com/nnda_"><img height="32" width="32" src="icons/kofi.svg" alt="Ko-fi"/> &nbsp; </a>
-<a href="https://codepen.io/nnda"><img height="32" width="32" src="icons/codepen.svg" alt="CodePen"/> &nbsp; </a>
-<a href="https://www.artstation.com/nnda"><img height="32" width="32" src="icons/artstation.svg" alt="ArtStation"/> &nbsp; </a>
-<a href="https://www.artstation.com/nnda"><img height="32" width="32" src="icons/deviantart.svg" alt="DeviantArt"/> &nbsp; </a>
+<a href="https://nnda.itch.io"><img height="32" width="32" src="icons/itchdotio.svg" alt="Itch.io"/></a> &nbsp;
+<a href="https://www.instagram.com/nnda.afrd"><img height="32" width="32" src="icons/instagram.svg" alt="Instagram"/></a> &nbsp;
+<a href="https://mastodon.art/@nnda"><img height="32" width="32" src="icons/mastodon.svg" alt="Mastodon"/></a> &nbsp;
+<a href="https://ko-fi.com/nnda_"><img height="32" width="32" src="icons/kofi.svg" alt="Ko-fi"/></a> &nbsp;
+<a href="https://codepen.io/nnda"><img height="32" width="32" src="icons/codepen.svg" alt="CodePen"/></a> &nbsp;
+<a href="https://www.artstation.com/nnda"><img height="32" width="32" src="icons/artstation.svg" alt="ArtStation"/></a> &nbsp;
+<a href="https://www.artstation.com/nnda"><img height="32" width="32" src="icons/deviantart.svg" alt="DeviantArt"/></a> &nbsp;
 </div>
 </br>
 
