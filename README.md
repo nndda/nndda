@@ -25,37 +25,37 @@ func im_doing(): print(
 ## Languages
 
 &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/FCE217" alt="Python"/> &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5/F6C917" alt="HTML"/> &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/css3/F0B018" alt="CSS"/> &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/EA9819" alt="JavaScript"/> &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/sass/E47F1A" alt="Sass"/> &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/csharp/DE661B" alt="C#"/> &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/D94E1C" alt="C++"/> &nbsp;
+<img height="32" width="32" src="icons/python.svg" alt="Python"/> &nbsp;
+<img height="32" width="32" src="icons/html5.svg" alt="HTML"/> &nbsp;
+<img height="32" width="32" src="icons/css3.svg" alt="CSS"/> &nbsp;
+<img height="32" width="32" src="icons/javascript.svg" alt="JavaScript"/> &nbsp;
+<img height="32" width="32" src="icons/sass.svg" alt="Sass"/> &nbsp;
+<img height="32" width="32" src="icons/csharp.svg" alt="C#"/> &nbsp;
+<img height="32" width="32" src="icons/cplusplus.svg" alt="C++"/> &nbsp;
 </br>
 
 ## Tools & Frameworks
 
 &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/godotengine/3BE6F9" alt="Godot Engine"/> &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/aseprite/37CAF4" alt="Aseprite"/> &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/sublimetext/34AEF0" alt="Sublime Text"/> &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/3092EB" alt="Visual Studio Code"/> &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/2D76E7" alt="Bootstrap"/> &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/2A5BE3" alt="Tailwind CSS"/> &nbsp;
+<img height="32" width="32" src="icons/godotengine.svg" alt="Godot Engine"/> &nbsp;
+<img height="32" width="32" src="icons/aseprite.svg" alt="Aseprite"/> &nbsp;
+<img height="32" width="32" src="icons/sublimetext.svg" alt="Sublime Text"/> &nbsp;
+<img height="32" width="32" src="icons/visualstudiocode.svg" alt="Visual Studio Code"/> &nbsp;
+<img height="32" width="32" src="icons/bootstrap.svg" alt="Bootstrap"/> &nbsp;
+<img height="32" width="32" src="icons/tailwindcss.svg" alt="Tailwind CSS"/> &nbsp;
 </br>
 
 ## Links & Socials
 
 <div>
 &nbsp;
-<a href="https://nnda.itch.io"><img height="32" width="32" src="https://cdn.simpleicons.org/itchdotio/FC3A78" alt="Itch.io"/> &nbsp; </a>
-<a href="https://www.instagram.com/nnda.afrd"><img height="32" width="32" src="https://cdn.simpleicons.org/instagram/ED3A8D" alt="Instagram"/> &nbsp; </a>
-<a href="https://mastodon.art/@nnda"><img height="32" width="32" src="https://cdn.simpleicons.org/mastodon/DE3BA2" alt="Mastodon"/> &nbsp; </a>
-<a href="https://ko-fi.com/nnda_"><img height="32" width="32" src="https://cdn.simpleicons.org/kofi/D03CB7" alt="Ko-fi"/> &nbsp; </a>
-<a href="https://codepen.io/nnda"><img height="32" width="32" src="https://cdn.simpleicons.org/codepen/C13DCC" alt="CodePen"/> &nbsp; </a>
-<a href="https://www.artstation.com/nnda"><img height="32" width="32" src="https://cdn.simpleicons.org/artstation/B23EE1" alt="ArtStation"/> &nbsp; </a>
-<a href="https://www.artstation.com/nnda"><img height="32" width="32" src="https://cdn.simpleicons.org/deviantart/A43FF6" alt="DeviantArt"/> &nbsp; </a>
+<a href="https://nnda.itch.io"><img height="32" width="32" src="icons/itchdotio.svg" alt="Itch.io"/> &nbsp; </a>
+<a href="https://www.instagram.com/nnda.afrd"><img height="32" width="32" src="icons/instagram.svg" alt="Instagram"/> &nbsp; </a>
+<a href="https://mastodon.art/@nnda"><img height="32" width="32" src="icons/mastodon.svg" alt="Mastodon"/> &nbsp; </a>
+<a href="https://ko-fi.com/nnda_"><img height="32" width="32" src="icons/kofi.svg" alt="Ko-fi"/> &nbsp; </a>
+<a href="https://codepen.io/nnda"><img height="32" width="32" src="icons/codepen.svg" alt="CodePen"/> &nbsp; </a>
+<a href="https://www.artstation.com/nnda"><img height="32" width="32" src="icons/artstation.svg" alt="ArtStation"/> &nbsp; </a>
+<a href="https://www.artstation.com/nnda"><img height="32" width="32" src="icons/deviantart.svg" alt="DeviantArt"/> &nbsp; </a>
 </div>
 </br>
 
