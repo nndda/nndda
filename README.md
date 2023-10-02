@@ -38,6 +38,7 @@ func im_doing(): print(
 
 &nbsp;
 <img height="32" width="32" src="icons/godotengine.svg" alt="Godot Engine"/> &nbsp;
+<img height="32" width="32" src="icons/medibangpaint.svg" alt="Aseprite"/> &nbsp;
 <img height="32" width="32" src="icons/aseprite.svg" alt="Aseprite"/> &nbsp;
 <img height="32" width="32" src="icons/sublimetext.svg" alt="Sublime Text"/> &nbsp;
 <img height="32" width="32" src="icons/visualstudiocode.svg" alt="Visual Studio Code"/> &nbsp;

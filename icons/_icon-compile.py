@@ -18,13 +18,14 @@ langs = [
 tools = [
     [
         "godotengine",
+        "medibangpaint",
         "aseprite",
         "sublimetext",
         "visualstudiocode",
         "bootstrap",
         "tailwindcss"
     ],
-    ["#3BE6F9","#37CAF4","#34AEF0","#3092EB","#2D76E7","#2A5BE3"]
+    ["#3BE6F9","#38CEF5","#35B7F1","#32A0EE","#2F89EA","#2C72E6","#2A5BE3"]
 ]
 socials = [
     [
