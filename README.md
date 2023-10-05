@@ -63,6 +63,8 @@ func im_doing(): print(
 </br>
 </br>
 
+<!-- https://img.shields.io/badge/Discord-nndd%230099-fff?style=flat-square&logo=discord&logoColor=white&labelColor=101217 -->
+
 <div align="right">
-<a href="https://github.com/nndda"><img height="28" src="https://img.shields.io/badge/Discord-nndd%230099-3841a1?style=flat-square&logo=discord&logoColor=white&labelColor=5865F2"/> &nbsp; </a>
+<a href="https://github.com/nndda"><img height="28" src="Discord-usr.svg"/> &nbsp; </a>
 </div>
