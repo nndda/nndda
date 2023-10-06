@@ -14,7 +14,7 @@ var my := {
   stuff    = [
              "Game Dev",
              "Web Design",
-             "Digital Art"
+             "Digital Art",
              ] }
 
 func im_doing(): print(
@@ -66,5 +66,5 @@ func im_doing(): print(
 <!-- https://img.shields.io/badge/Discord-nndd%230099-fff?style=flat-square&logo=discord&logoColor=white&labelColor=101217 -->
 
 <div align="right">
-<a href="https://github.com/nndda"><img height="28" src="Discord-usr.svg"/> &nbsp; </a>
+<a href="https://github.com/nndda"><img height="28" src="Discord-usr.svg"/></a>
 </div>
