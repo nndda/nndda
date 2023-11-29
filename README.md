@@ -32,6 +32,7 @@ func im_doing(): print(
 <img height="32" width="32" src="icons/sass.svg" alt="Sass"/> &nbsp;
 <img height="32" width="32" src="icons/csharp.svg" alt="C#"/> &nbsp;
 <img height="32" width="32" src="icons/cplusplus.svg" alt="C++"/> &nbsp;
+<img height="32" width="32" src="icons/wolframlanguage.svg" alt="C++"/> &nbsp;
 </br>
 
 ## Tools & Frameworks
@@ -40,10 +41,9 @@ func im_doing(): print(
 <img height="32" width="32" src="icons/godotengine.svg" alt="Godot Engine"/> &nbsp;
 <img height="32" width="32" src="icons/medibangpaint.svg" alt="Aseprite"/> &nbsp;
 <img height="32" width="32" src="icons/aseprite.svg" alt="Aseprite"/> &nbsp;
+<img height="32" width="32" src="icons/inkscape.svg" alt="Aseprite"/> &nbsp;
 <img height="32" width="32" src="icons/sublimetext.svg" alt="Sublime Text"/> &nbsp;
 <img height="32" width="32" src="icons/visualstudiocode.svg" alt="Visual Studio Code"/> &nbsp;
-<img height="32" width="32" src="icons/bootstrap.svg" alt="Bootstrap"/> &nbsp;
-<img height="32" width="32" src="icons/tailwindcss.svg" alt="Tailwind CSS"/> &nbsp;
 </br>
 
 ## Links & Socials
@@ -51,12 +51,11 @@ func im_doing(): print(
 <div>
 &nbsp;
 <a href="https://nnda.itch.io"><img height="32" width="32" src="icons/itchdotio.svg" alt="Itch.io"/></a> &nbsp;
-<a href="https://www.instagram.com/nnda.afrd"><img height="32" width="32" src="icons/instagram.svg" alt="Instagram"/></a> &nbsp;
 <a href="https://mastodon.art/@nnda"><img height="32" width="32" src="icons/mastodon.svg" alt="Mastodon"/></a> &nbsp;
 <a href="https://ko-fi.com/nnda_"><img height="32" width="32" src="icons/kofi.svg" alt="Ko-fi"/></a> &nbsp;
-<a href="https://codepen.io/nnda"><img height="32" width="32" src="icons/codepen.svg" alt="CodePen"/></a> &nbsp;
+<a href="https://www.instagram.com/nnda.afrd"><img height="32" width="32" src="icons/instagram.svg" alt="Instagram"/></a> &nbsp;
 <a href="https://www.artstation.com/nnda"><img height="32" width="32" src="icons/artstation.svg" alt="ArtStation"/></a> &nbsp;
-<a href="https://www.artstation.com/nnda"><img height="32" width="32" src="icons/deviantart.svg" alt="DeviantArt"/></a> &nbsp;
+<a href="https://codepen.io/nnda"><img height="32" width="32" src="icons/codepen.svg" alt="CodePen"/></a> &nbsp;
 </div>
 </br>
 

@@ -11,33 +11,32 @@ langs = [
         "javascript",
         "sass",
         "csharp",
-        "cplusplus"
+        "cplusplus",
+        "wolframlanguage",
     ],
-    ["#FCE217","#F6C917","#F0B018","#EA9819","#E47F1A","#DE661B","#D94E1C"]
+    ["#FCE217","#F8D217","#F4C217","#F0B218","#ECA218","#E89219","#E48219","#E17319"]
 ]
 tools = [
     [
         "godotengine",
         "medibangpaint",
         "aseprite",
+        "inkscape",
         "sublimetext",
         "visualstudiocode",
-        "bootstrap",
-        "tailwindcss"
     ],
-    ["#3BE6F9","#38CEF5","#35B7F1","#32A0EE","#2F89EA","#2C72E6","#2A5BE3"]
+    ["#3BE6F9","#38D1F5","#35BCF2","#33A7EE","#3092EB","#2E7DE8"]
 ]
 socials = [
     [
         "itchdotio",
-        "instagram",
         "mastodon",
         "kofi",
-        "codepen",
+        "instagram",
         "artstation",
-        "deviantart"
+        "codepen",
     ],
-    ["#FC3A78","#ED3A8D","#DE3BA2","#D03CB7","#C13DCC","#B23EE0","#A43FF5"]
+    ["#FC3A78","#EA3B91","#D83CAA","#C73DC3","#B53EDC","#A43FF5"]
 ]
 
 
