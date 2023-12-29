@@ -1,6 +1,8 @@
 <div align="center">
-<h3> please help! </h3>
-<a href="https://ko-fi.com/L3L536B9Z"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"/></a>&nbsp;
+  <h4>
+    <a href="https://ko-fi.com/L3L536B9Z"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"/></a>
+    &nbsp;&nbsp;&nbsp;please help!
+  </h4>
 </div>
 
 <hr>
