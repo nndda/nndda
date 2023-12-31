@@ -13,8 +13,8 @@
         background: repeating-linear-gradient(
             45deg,
             #0000, #0000 .8em,
-            #ffe70b .8em,
-            #ffe70b 1.6em
+            #FCE217 .8em,
+            #FCE217 1.6em
             );
         background-size: 200% 200%;
         animation: y 20s linear infinite;
