@@ -1,14 +1,16 @@
-<svg fill="none" xmlns="http://www.w3.org/2000/svg" width="800" height="24" viewBox="0 0 800 24">
+<svg fill="none" xmlns="http://www.w3.org/2000/svg" width="800" viewBox="0 0 800 16" height="16">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
+      <style xmlns="http://www.w3.org/1999/xhtml">
+      .a,
+      .b {
+        color: transparent;
+      }
+
       .a {
         width: 100%;
-        height: 26px;
-        color: transparent;
-        background: red;
+        height: 100%;
         background: repeating-linear-gradient(45deg, #0000, #0000 1em, #ffe70b 1em, #ffe70b 2em);
-        background-size: auto;
         background-size: 200% 200%;
         animation: y 20s linear infinite;
       }
@@ -19,8 +21,26 @@
         }
       }
 
+      .c {
+        display: flex;
+      }
+
+      .a {
+        flex-shrink: 1
+      }
+
+      .b {
+        width: 150%;
+        height: 10%;
+        background: #ffe70b;
+        flex-grow: 1;
+      }
+
       </style>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="a">a</div>
+      <div class="c">
+        <div class="a">a</div>
+        <div class="b">b</div>
+      </div>
     </div>
   </foreignObject>
 </svg>
