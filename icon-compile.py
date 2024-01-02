@@ -32,6 +32,7 @@ tools = {
         ["aseprite",            "Aseprite",],
         ["inkscape",            "Inkscape",],
         ["sublimetext",         "Sublime Text",],
+        ["nodedotjs",           "Node.js",],
         ["visualstudiocode",    "Visual Studio Code",],
     ],
 }

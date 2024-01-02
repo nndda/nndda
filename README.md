@@ -44,6 +44,7 @@ func im_doing(): print(
 <img height="28" width="28" src="icons/aseprite.svg" alt="Aseprite"/> &nbsp;
 <img height="28" width="28" src="icons/inkscape.svg" alt="Inkscape"/> &nbsp;
 <img height="28" width="28" src="icons/sublimetext.svg" alt="Sublime Text"/> &nbsp;
+<img height="28" width="28" src="icons/nodedotjs.svg" alt="Node.js"/> &nbsp;
 <img height="28" width="28" src="icons/visualstudiocode.svg" alt="Visual Studio Code"/> &nbsp;
 <br>
 
