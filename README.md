@@ -10,13 +10,13 @@
 class_name Me extends CharacterBody2D
 
 var my := {
-  name     = "nanda",
-  location = "id",
+  name     = "nnda",
   stuff    = [
-             "Game Dev",
-             "Web Design",
-             "Digital Art",
-             ] }
+   "Game Dev",
+   "Web Design",
+   "Digital Art",
+  ]
+}
 
 func im_doing(): print(
   "I am currently doing ", my.stuff.pick_random() )
@@ -65,5 +65,5 @@ func im_doing(): print(
 <!-- https://img.shields.io/badge/Discord-nndd%230099-fff?style=flat-square&logo=discord&logoColor=white&labelColor=101217 -->
 
 <div align="right">
-<a href="https://github.com/nndda"><img height="28" src="Discord-usr.svg"/></a>
+  <a href="https://github.com/nndda"><img height="28" src="Discord-usr.svg"/></a>
 </div>
