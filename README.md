@@ -30,6 +30,7 @@ func im_doing(): print(
 <img height="28" width="28" src="icons/html5.svg" alt="HTML 5"/> &nbsp;
 <img height="28" width="28" src="icons/css3.svg" alt="CSS 3"/> &nbsp;
 <img height="28" width="28" src="icons/javascript.svg" alt="JavaScript"/> &nbsp;
+<img height="28" width="28" src="icons/typescript.svg" alt="TypeScript"/> &nbsp;
 <img height="28" width="28" src="icons/sass.svg" alt="SASS"/> &nbsp;
 <img height="28" width="28" src="icons/csharp.svg" alt="C#"/> &nbsp;
 <img height="28" width="28" src="icons/cplusplus.svg" alt="C++"/> &nbsp;

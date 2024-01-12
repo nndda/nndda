@@ -16,6 +16,7 @@ langs = {
         ["html5",           "HTML 5",],
         ["css3",            "CSS 3",],
         ["javascript",      "JavaScript",],
+        ["typescript",      "TypeScript",],
         ["sass",            "SASS",],
         ["csharp",          "C#",],
         ["cplusplus",       "C++",],
