@@ -1,7 +1,9 @@
-<a href="https://nnda.itch.io"><img src="https://img.shields.io/badge/Games-f82a2a?&label=itch.io&labelColor=FA5C5C&style=flat-square&logo=itchdotio&logoColor=ffffff" alt="itch.io - Games"/></a>
-<a href="https://www.artstation.com/nnda"><img src="https://img.shields.io/badge/Illustrations-0d8dc5?&label=ArtStation&labelColor=13AFF0&style=flat-square&logo=artstation&logoColor=ffffff" alt="ArtStation - Illustrations"/></a>
-&nbsp;&nbsp;
-<a href="https://ko-fi.com/L3L536B9Z"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF5E5B?style=flat-square&logo=kofi&logoColor=ffffff" alt="Buy Me a Coffee"/></a>
+<div>
+  <a href="https://nnda.itch.io"><img src="https://img.shields.io/badge/Games-f82a2a?&label=itch.io&labelColor=FA5C5C&style=flat-square&logo=itchdotio&logoColor=ffffff" alt="itch.io - Games"/></a>
+  <a href="https://www.artstation.com/nnda"><img src="https://img.shields.io/badge/Illustrations-0d8dc5?&label=ArtStation&labelColor=13AFF0&style=flat-square&logo=artstation&logoColor=ffffff" alt="ArtStation - Illustrations"/></a>
+  &nbsp;&nbsp;
+  <a href="https://ko-fi.com/L3L536B9Z"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF5E5B?style=flat-square&logo=kofi&logoColor=ffffff" alt="Buy Me a Coffee"/></a>
+</div>
 <div align="center">
   <img src="yellow_stripes.svg" alt="yellow stripes"/>
 </div>
