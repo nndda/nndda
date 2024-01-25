@@ -4,12 +4,13 @@ from bs4 import BeautifulSoup
 urlpre = "https://simpleicons.org/icons/"
 output_dir = "./icons/"
 force_update = True # redownload every icons, regardless if the files already exist or not
+dev_mode = False # use SimpleIcons CDN instead of redownloading icons for testing
 icon_size = 28 #px
 
 langs = {
     "heading" : "Languages",
-    "col_1" : "#FCE217FF",
-    "col_2" : "#E87415FF",
+    "col_1" : "#3BE6F9FF",
+    "col_2" : "#287BEBFF",
     "icons" : [
         # SimpleIcon slug, alt, url
         ["python",          "Python",],
@@ -25,8 +26,8 @@ langs = {
 }
 tools = {
     "heading" : "Tools & Frameworks",
-    "col_1" : "#3BE6F9FF",
-    "col_2" : "#287BEBFF",
+    "col_1" : "#FC3A78FF",
+    "col_2" : "#A43FF5FF",
     "icons" : [
         ["godotengine",         "Godot Engine",],
         ["medibangpaint",       "MediBang Paint",],
@@ -37,19 +38,19 @@ tools = {
         ["visualstudiocode",    "Visual Studio Code",],
     ],
 }
-socials = {
-    "heading" : "Links & Socials",
-    "col_1" : "#FC3A78FF",
-    "col_2" : "#A43FF5FF",
-    "icons" : [
-        ["itchdotio",   "itch.io",      "nnda.itch.io",],
-        ["mastodon",    "Mastodon",     "mastodon.art/@nnda",],
-        ["kofi",        "Ko-fi",        "ko-fi.com/nnda_",],
-        ["instagram",   "Instagram",    "www.instagram.com/nnda.afrd",],
-        ["artstation",  "ArtStation",   "www.artstation.com/nnda",],
-        ["codepen",     "CodePen",      "codepen.io/nnda",],
-    ],
-}
+# socials = {
+#     "heading" : "Links & Socials",
+#     "col_1" : "#FC3A78FF",
+#     "col_2" : "#A43FF5FF",
+#     "icons" : [
+#         ["itchdotio",   "itch.io",      "nnda.itch.io",],
+#         ["mastodon",    "Mastodon",     "mastodon.art/@nnda",],
+#         ["kofi",        "Ko-fi",        "ko-fi.com/nnda_",],
+#         ["instagram",   "Instagram",    "www.instagram.com/nnda.afrd",],
+#         ["artstation",  "ArtStation",   "www.artstation.com/nnda",],
+#         ["codepen",     "CodePen",      "codepen.io/nnda",],
+#     ],
+# }
 
 
 def hex2rgba(hex):
@@ -118,7 +119,7 @@ def icon_color(filepath, color):
 
 markdown_output = ""
 
-for n in [langs, tools, socials]:
+for n in [langs, tools]:
     g = gradient(len(n["icons"]), n["col_1"], n["col_2"])
 
     markdown_output += "\n## %s\n\n&nbsp;\n" % n["heading"]
@@ -131,12 +132,16 @@ for n in [langs, tools, socials]:
         if len(n["icons"][m]) >= 3:
             url = n["icons"][m][2]
 
-        icon_color( icon, g[m] )
+        if dev_mode:
+            icon = "https://cdn.simpleicons.org/%s/%s" % (icon, g[m].removeprefix("#"))
+        else:
+            icon_color(icon, g[m])
+            icon = "icons/%s.svg" % icon
 
         if url != "":
             markdown_output += "<a href=\"https://%s\">" % url
 
-        markdown_output += "<img height=\"%i\" width=\"%i\" src=\"icons/%s.svg\" alt=\"%s\"/>" % (icon_size, icon_size, icon, alt)
+        markdown_output += "<img height=\"%i\" width=\"%i\" src=\"%s\" alt=\"%s\"/>" % (icon_size, icon_size, icon, alt)
 
         if url != "":
             markdown_output += "</a>"
