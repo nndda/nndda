@@ -9,20 +9,15 @@
 </div>
 
 ```gdscript
-class_name Me extends CharacterBody2D
-
-var my := {
-  name     = "nnda",
-  stuff    = [
-   "Game Dev",
-   "Web Design",
-   "Digital Art",
-  ]
-}
-
-func im_doing(): print(
-  "I am currently doing ", my.stuff.pick_random() )
-
+func stuff_i_do():
+  print(
+    'Im currently doing some ',
+    [ 'illustration',
+      'game jam',
+      'game dev',
+      'web dev',
+    ].pick_random()
+  )
 ```
 
 ## Languages
@@ -49,17 +44,6 @@ func im_doing(): print(
 <img height="28" width="28" src="icons/sublimetext.svg" alt="Sublime Text"/> &nbsp;
 <img height="28" width="28" src="icons/nodedotjs.svg" alt="Node.js"/> &nbsp;
 <img height="28" width="28" src="icons/visualstudiocode.svg" alt="Visual Studio Code"/> &nbsp;
-<br>
-
-## Links & Socials
-
-&nbsp;
-<a href="https://nnda.itch.io"><img height="28" width="28" src="icons/itchdotio.svg" alt="itch.io"/></a> &nbsp;
-<a href="https://mastodon.art/@nnda"><img height="28" width="28" src="icons/mastodon.svg" alt="Mastodon"/></a> &nbsp;
-<a href="https://ko-fi.com/nnda_"><img height="28" width="28" src="icons/kofi.svg" alt="Ko-fi"/></a> &nbsp;
-<a href="https://www.instagram.com/nnda.afrd"><img height="28" width="28" src="icons/instagram.svg" alt="Instagram"/></a> &nbsp;
-<a href="https://www.artstation.com/nnda"><img height="28" width="28" src="icons/artstation.svg" alt="ArtStation"/></a> &nbsp;
-<a href="https://codepen.io/nnda"><img height="28" width="28" src="icons/codepen.svg" alt="CodePen"/></a> &nbsp;
 <br>
 
 </br>
