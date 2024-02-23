@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg aria-label="Buy Me a Coffee" height="20" role="img" width="119" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>
+  Buy Me a Coffee
+ </title>
+ <g shape-rendering="crispEdges">
+  <rect fill="#555" height="20" width="0"/>
+  <rect fill="#ff5e5b" height="20" width="119" x="0"/>
+ </g>
+ <g fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="110" text-anchor="middle" text-rendering="geometricPrecision">
+  <image height="14" width="14" x="5" xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+S28tZmk8L3RpdGxlPjxwYXRoIGQ9Ik0yMy44ODEgOC45NDhjLS43NzMtNC4wODUtNC44NTktNC41OTMtNC44NTktNC41OTNILjcyM2MtLjYwNCAwLS42NzkuNzk4LS42NzkuNzk4cy0uMDgyIDcuMzI0LS4wMjIgMTEuODIyYy4xNjQgMi40MjQgMi41ODYgMi42NzIgMi41ODYgMi42NzJzOC4yNjctLjAyMyAxMS45NjYtLjA0OWMyLjQzOC0uNDI2IDIuNjgzLTIuNTY2IDIuNjU4LTMuNzM0IDQuMzUyLjI0IDcuNDIyLTIuODMxIDYuNjQ5LTYuOTE2em0tMTEuMDYyIDMuNTExYy0xLjI0NiAxLjQ1My00LjAxMSAzLjk3Ni00LjAxMSAzLjk3NnMtLjEyMS4xMTktLjMxLjAyM2MtLjA3Ni0uMDU3LS4xMDgtLjA5LS4xMDgtLjA5LS40NDMtLjQ0MS0zLjM2OC0zLjA0OS00LjAzNC0zLjk1NC0uNzA5LS45NjUtMS4wNDEtMi43LS4wOTEtMy43MS45NTEtMS4wMSAzLjAwNS0xLjA4NiA0LjM2My40MDcgMCAwIDEuNTY1LTEuNzgyIDMuNDY4LS45NjMgMS45MDQuODIgMS44MzIgMy4wMTEuNzIzIDQuMzExem02LjE3My40NzhjLS45MjguMTE2LTEuNjgyLjAyOC0xLjY4Mi4wMjhWNy4yODRoMS43N3MxLjk3MS41NTEgMS45NzEgMi42MzhjMCAxLjkxMy0uOTg1IDIuNjY3LTIuMDU5IDMuMDE1eiIvPjwvc3ZnPg==" y="3"/>
+  <text fill="#fff" textLength="910" transform="scale(.1)" x="685" y="140">
+   Buy Me a Coffee
+  </text>
+ </g>
+</svg>

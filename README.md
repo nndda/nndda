@@ -1,8 +1,7 @@
 <div>
-  <a href="https://nnda.itch.io"><img src="https://img.shields.io/badge/itch.io-f82a2a?&style=flat-square&logo=itchdotio&logoColor=ffffff" alt="itch.io - Games"/></a>
-  <a href="https://www.artstation.com/nnda"><img src="https://img.shields.io/badge/ArtStation-0d8dc5?&style=flat-square&logo=artstation&logoColor=ffffff" alt="ArtStation - Illustrations"/></a>
+  <a href="https://https://nnda.itch.io"><img   src="./badges/itchio.svg" alt="Games I made"/></a>
   &nbsp;&nbsp;
-  <a href="https://ko-fi.com/L3L536B9Z"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF5E5B?style=flat-square&logo=kofi&logoColor=ffffff" alt="Buy Me a Coffee"/></a>
+  <a href="https://https://ko-fi.com/L3L536B9Z"><img   src="./badges/ko-fi.svg" alt="Buy Me a Coffee"/></a>
 </div>
 <div align="center">
   <img src="yellow_stripes.svg" alt="yellow stripes"/>
@@ -21,7 +20,6 @@ func stuff_i_do():
 ```
 
 ## Languages
-
 &nbsp;
 <img height="28" width="28" src="icons/python.svg" alt="Python"/> &nbsp;
 <img height="28" width="28" src="icons/html5.svg" alt="HTML 5"/> &nbsp;
@@ -33,9 +31,7 @@ func stuff_i_do():
 <img height="28" width="28" src="icons/cplusplus.svg" alt="C++"/> &nbsp;
 <img height="28" width="28" src="icons/wolframlanguage.svg" alt="Wolfram Language"/> &nbsp;
 <br>
-
 ## Tools & Frameworks
-
 &nbsp;
 <img height="28" width="28" src="icons/godotengine.svg" alt="Godot Engine"/> &nbsp;
 <img height="28" width="28" src="icons/medibangpaint.svg" alt="MediBang Paint"/> &nbsp;
@@ -43,14 +39,13 @@ func stuff_i_do():
 <img height="28" width="28" src="icons/inkscape.svg" alt="Inkscape"/> &nbsp;
 <img height="28" width="28" src="icons/sublimetext.svg" alt="Sublime Text"/> &nbsp;
 <img height="28" width="28" src="icons/nodedotjs.svg" alt="Node.js"/> &nbsp;
+<img height="28" width="28" src="icons/webpack.svg" alt="webpack"/> &nbsp;
 <img height="28" width="28" src="icons/visualstudiocode.svg" alt="Visual Studio Code"/> &nbsp;
 <br>
 
 </br>
 </br>
 
-<!-- https://img.shields.io/badge/Discord-nndd%230099-fff?style=flat-square&logo=discord&logoColor=white&labelColor=101217 -->
-
 <div align="right">
-  <a href="https://github.com/nndda"><img height="28" src="Discord-usr.svg"/></a>
+  <img height="28"  src="./badges/discord.svg" alt="Discord - nnda.dev"/>
 </div>
