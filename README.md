@@ -41,7 +41,6 @@ func stuff_i_do():
 <img height="28" width="28" src="icons/nodedotjs.svg" alt="Node.js"/> &nbsp;
 <img height="28" width="28" src="icons/webpack.svg" alt="webpack"/> &nbsp;
 <img height="28" width="28" src="icons/visualstudiocode.svg" alt="Visual Studio Code"/> &nbsp;
-<img height="28" width="28" src="icons/neovim.svg" alt=""/> &nbsp;
 <br>
 
 </br>
