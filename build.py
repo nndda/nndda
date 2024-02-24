@@ -88,6 +88,7 @@ icon_stack = [
         ["nodedotjs",           "Node.js",],
         ["webpack",             "webpack",],
         ["visualstudiocode",    "Visual Studio Code",],
+        ["neovim",    "",],
     ],
 },
 ]
