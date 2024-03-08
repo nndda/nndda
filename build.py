@@ -87,6 +87,7 @@ icon_stack = [
         ["sublimetext",         "Sublime Text",],
         ["nodedotjs",           "Node.js",],
         ["webpack",             "webpack",],
+        ["jekyll",              "Jekyll",],
         ["visualstudiocode",    "Visual Studio Code",],
     ],
 },
