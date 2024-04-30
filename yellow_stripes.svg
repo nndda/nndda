@@ -2,50 +2,42 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style xmlns="http://www.w3.org/1999/xhtml">
-      .a,
-      .b {
-        color: transparent;
-      }
-
-      .a {
-        width: 100%;
-        height: 100%;
-        background: repeating-linear-gradient(
-            45deg,
-            #0000, #0000 .8em,
-            #FCE217 .8em,
-            #FCE217 1.6em
-            );
-        background-size: 200% 200%;
-        animation: y 20s linear infinite;
-      }
-
-      @keyframes y {
-        to {
-          background-position: 100%
+        .custom-dev-banner:before {
+          content: "";
+          width: 40%;
+          font-weight: bold;
+          letter-spacing: .15ch;
+          background-image: linear-gradient(
+            -45deg,
+            #0000, #0000 1em,
+            var(--col) 1em, var(--col) 2em
+          );
+          color: var(--t);
+          padding: 0 2em 0 1em;
+          line-height: 1em;
         }
-      }
 
-      .c {
-        display: flex;
-      }
+        .custom-dev-banner {
+          --col: #FCE217;
+          display: flex;
+          height: 1.2em;
+          border: none;
+          background: repeating-linear-gradient(
+            -45deg,
+            #0000, #0000 1em,
+            var(--col) 1em, var(--col) 2em
+          );
+          background-size: 200% 200%;
+          animation: runninwarnin 30s linear infinite;
+        }
 
-      .a {
-        flex-shrink: 1
-      }
-
-      .b {
-        width: 150%;
-        height: 10%;
-        background: #ffe70b;
-        flex-grow: 1;
-      }
-
+        @keyframes runninwarnin {
+          100% {
+            background-position: 100% 100%;
+          }
+        }
       </style>
-      <div class="c">
-        <div class="a">a</div>
-        <div class="b">b</div>
-      </div>
+      <div class="custom-dev-banner"></div>
     </div>
   </foreignObject>
 </svg>
