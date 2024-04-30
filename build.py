@@ -72,7 +72,7 @@ icon_stack = [
         ["sass",            "SASS",],
         ["csharp",          "C#",],
         ["cplusplus",       "C++",],
-        ["wolframlanguage", "Wolfram Language",],
+        # ["wolframlanguage", "Wolfram Language",],
     ],
 },
 {
@@ -87,8 +87,8 @@ icon_stack = [
         ["sublimetext",         "Sublime Text",],
         ["nodedotjs",           "Node.js",],
         ["webpack",             "webpack",],
-        ["jekyll",              "Jekyll",],
-        ["visualstudiocode",    "Visual Studio Code",],
+        # ["jekyll",              "Jekyll",],
+        # ["visualstudiocode",    "Visual Studio Code",],
     ],
 },
 ]
