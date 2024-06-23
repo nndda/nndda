@@ -1,7 +1,7 @@
 <div>
-  <a href="https://https://nnda.itch.io"><img   src="./badges/itchio.svg" alt="Games I made"/></a>
+  <a href="https://nnda.itch.io"><img   src="./badges/itchio.svg" alt="Games I made"/></a>
   &nbsp;&nbsp;
-  <a href="https://https://ko-fi.com/L3L536B9Z"><img   src="./badges/ko-fi.svg" alt="Buy Me a Coffee"/></a>
+  <a href="https://ko-fi.com/L3L536B9Z"><img   src="./badges/ko-fi.svg" alt="Buy Me a Coffee"/></a>
 </div>
 <div align="center">
   <img src="yellow_stripes.svg" alt="yellow stripes"/>
