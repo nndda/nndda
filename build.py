@@ -118,7 +118,7 @@ def build_img_tag(src, width="", height="", alt="", url=""):
     output = ""
 
     if url != "":
-        output += f"<a href=\"https://{url}\">"
+        output += f"<a href=\"{url}\">"
 
     if width != "":
         width = f"width=\"{width}\""
