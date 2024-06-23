@@ -2,9 +2,10 @@ name: Build Readme
 run-name: 🔨 Building readme...
 
 on:
-  push:
-    branches:
-    - build
+  workflow_dispatch:
+  # push:
+  #   branches:
+  #   - build
 
 jobs:
   buildreadme:
