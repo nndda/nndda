@@ -27,8 +27,6 @@ func stuff_i_do():
 <img height="28" width="28" src="icons/javascript.svg" alt="JavaScript"/> &nbsp;
 <img height="28" width="28" src="icons/typescript.svg" alt="TypeScript"/> &nbsp;
 <img height="28" width="28" src="icons/sass.svg" alt="SASS"/> &nbsp;
-<img height="28" width="28" src="icons/csharp.svg" alt="C#"/> &nbsp;
-<img height="28" width="28" src="icons/cplusplus.svg" alt="C++"/> &nbsp;
 <br>
 ## Tools & Frameworks
 &nbsp;
@@ -36,7 +34,6 @@ func stuff_i_do():
 <img height="28" width="28" src="icons/medibangpaint.svg" alt="MediBang Paint"/> &nbsp;
 <img height="28" width="28" src="icons/aseprite.svg" alt="Aseprite"/> &nbsp;
 <img height="28" width="28" src="icons/inkscape.svg" alt="Inkscape"/> &nbsp;
-<img height="28" width="28" src="icons/sublimetext.svg" alt="Sublime Text"/> &nbsp;
 <img height="28" width="28" src="icons/nodedotjs.svg" alt="Node.js"/> &nbsp;
 <img height="28" width="28" src="icons/webpack.svg" alt="webpack"/> &nbsp;
 <br>
