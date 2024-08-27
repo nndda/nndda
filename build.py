@@ -70,7 +70,7 @@ icon_stack = [
         ["javascript",      "JavaScript",],
         ["typescript",      "TypeScript",],
         ["sass",            "SASS",],
-        ["csharp",          "C#",],
+        # ["csharp",          "C#",], removed from simple-icons. microsoft is stinky poopy
         # ["cplusplus",       "C++",],
         # ["wolframlanguage", "Wolfram Language",],
     ],
@@ -89,7 +89,6 @@ icon_stack = [
         ["nodedotjs",           "Node.js",],
         ["webpack",             "webpack",],
         # ["jekyll",              "Jekyll",],
-        # ["visualstudiocode",    "Visual Studio Code",],
     ],
 },
 ]
@@ -208,11 +207,11 @@ def gradient(length, col_1, col_2):
     output[0] = output[0][0:-2] + "ff"
     return output
 
-url_si = "https://simpleicons.org/icons/"
+url_si = "https://cdn.simpleicons.org/"
 
 # Generate icons
 def icon_color(filepath, color):
-    data = fetch_data(f"{url_si}{filepath}.svg", filepath, icons_output_dir)
+    data = fetch_data(f"{url_si}{filepath}", filepath, icons_output_dir)
 
     soup = BeautifulSoup(data, "xml")
     soup.svg["fill"] = color
