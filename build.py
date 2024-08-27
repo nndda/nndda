@@ -85,6 +85,7 @@ icon_stack = [
         ["aseprite",            "Aseprite",],
         ["inkscape",            "Inkscape",],
         # ["sublimetext",         "Sublime Text",],
+        ["linux",               "Linux",],
         ["git",                 "Git",],
         ["nodedotjs",           "Node.js",],
         ["webpack",             "webpack",],
