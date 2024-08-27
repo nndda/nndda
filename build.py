@@ -211,6 +211,7 @@ url_si = "https://cdn.simpleicons.org/"
 
 # Generate icons
 def icon_color(filepath, color):
+    print(filepath)
     data = fetch_data(f"{url_si}{filepath}", filepath, icons_output_dir)
 
     soup = BeautifulSoup(data, "xml")
