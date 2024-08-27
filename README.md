@@ -8,15 +8,8 @@
 </div>
 
 ```gdscript
-func stuff_i_do():
-  print(
-    'Im currently doing some ',
-    [ 'illustration',
-      'game jam',
-      'game dev',
-      'web dev',
-    ].pick_random()
-  )
+"I'm currently doing some %s." % \
+    [ "illustration", "game dev", "web dev" ].pick_random()
 ```
 
 ## Languages
@@ -34,6 +27,7 @@ func stuff_i_do():
 <img height="28" width="28" src="icons/medibangpaint.svg" alt="MediBang Paint"/> &nbsp;
 <img height="28" width="28" src="icons/aseprite.svg" alt="Aseprite"/> &nbsp;
 <img height="28" width="28" src="icons/inkscape.svg" alt="Inkscape"/> &nbsp;
+<img height="28" width="28" src="icons/git.svg" alt="Git"/> &nbsp;
 <img height="28" width="28" src="icons/nodedotjs.svg" alt="Node.js"/> &nbsp;
 <img height="28" width="28" src="icons/webpack.svg" alt="webpack"/> &nbsp;
 <br>
