@@ -51,7 +51,7 @@ for n in badge_stack:
 
 # ICONS -----------------------------------------------------------------------
 # use SimpleIcons CDN instead of downloading the icons
-icon_cdn = not force_update
+icon_cdn = True
 # icon size in pixels to be applied in "width" and "height" attributes
 icon_size = 28
 # directory for the downloaded icons
