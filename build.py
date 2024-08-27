@@ -211,16 +211,16 @@ url_si = "https://cdn.simpleicons.org/"
 
 # Generate icons
 def icon_color(filepath, color):
-    print(filepath)
     data = fetch_data(f"{url_si}{filepath}", filepath, icons_output_dir)
 
-    soup = BeautifulSoup(data, "xml")
-    soup.svg["fill"] = color
+    if data != "":
+        soup = BeautifulSoup(data, "xml")
+        soup.svg["fill"] = color
 
-    filename = f"{icons_output_dir}{filepath}.svg"
-    file_write = open(filename, "w")
-    file_write.write(soup.prettify())
-    file_write.close()
+        filename = f"{icons_output_dir}{filepath}.svg"
+        file_write = open(filename, "w")
+        file_write.write(soup.prettify())
+        file_write.close()
 
 md_icons = ""
 
