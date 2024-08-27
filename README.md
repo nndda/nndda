@@ -1,8 +1,15 @@
 <div>
-  <a href="https://nnda.itch.io"><img   src="./badges/itchio.svg" alt="Games I made"/></a>
-  &nbsp;&nbsp;
-  <a href="https://ko-fi.com/L3L536B9Z"><img   src="./badges/ko-fi.svg" alt="Buy Me a Coffee"/></a>
+  <a href="https://nnda.itch.io"><img height="16" width="16" src="https://cdn.simpleicons.org/itchdotio/fb3a78ff" alt=""/>&nbsp;itch.io</a>
+  &nbsp;
+  |
+  &nbsp;
+  <a href="https://ko-fi.com/L3L536B9Z"><img height="16" width="16" src="https://cdn.simpleicons.org/kofi/fb3a78ff" alt=""/>&nbsp;Ko-fi</a>
+  &nbsp;
+  |
+  &nbsp;
+  <a href="https://www.artstation.com/nnda"><img height="16" width="16" src="https://cdn.simpleicons.org/artstation/fb3a78ff" alt=""/>&nbsp;ArtStation</a>
 </div>
+
 <div align="center">
   <img src="yellow_stripes.svg" alt="yellow stripes"/>
 </div>
@@ -23,13 +30,14 @@
 <br>
 ## Tools & Frameworks
 &nbsp;
-<img height="28" width="28" src="https://cdn.simpleicons.org/godotengine/fb3a78ff" alt="Godot Engine"/> &nbsp;
-<img height="28" width="28" src="https://cdn.simpleicons.org/medibangpaint/ef3a89ff" alt="MediBang Paint"/> &nbsp;
-<img height="28" width="28" src="https://cdn.simpleicons.org/aseprite/e23b9bff" alt="Aseprite"/> &nbsp;
-<img height="28" width="28" src="https://cdn.simpleicons.org/inkscape/d63cadff" alt="Inkscape"/> &nbsp;
-<img height="28" width="28" src="https://cdn.simpleicons.org/git/c93cbfff" alt="Git"/> &nbsp;
-<img height="28" width="28" src="https://cdn.simpleicons.org/nodedotjs/bd3dd1ff" alt="Node.js"/> &nbsp;
-<img height="28" width="28" src="https://cdn.simpleicons.org/webpack/b03ee3ff" alt="webpack"/> &nbsp;
+<img height="28" width="28" src="https://cdn.simpleicons.org/godotengine/fc3a78ff" alt="Godot Engine"/> &nbsp;
+<img height="28" width="28" src="https://cdn.simpleicons.org/medibangpaint/f13a87ff" alt="MediBang Paint"/> &nbsp;
+<img height="28" width="28" src="https://cdn.simpleicons.org/aseprite/e63b97ff" alt="Aseprite"/> &nbsp;
+<img height="28" width="28" src="https://cdn.simpleicons.org/inkscape/db3ba6ff" alt="Inkscape"/> &nbsp;
+<img height="28" width="28" src="https://cdn.simpleicons.org/linux/d03cb6ff" alt="Linux"/> &nbsp;
+<img height="28" width="28" src="https://cdn.simpleicons.org/git/c53dc6ff" alt="Git"/> &nbsp;
+<img height="28" width="28" src="https://cdn.simpleicons.org/nodedotjs/ba3dd5ff" alt="Node.js"/> &nbsp;
+<img height="28" width="28" src="https://cdn.simpleicons.org/webpack/af3ee5ff" alt="webpack"/> &nbsp;
 <br>
 
 </br>
