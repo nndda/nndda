@@ -8,15 +8,8 @@
 </div>
 
 ```gdscript
-func stuff_i_do():
-  print(
-    'Im currently doing some ',
-    [ 'illustration',
-      'game jam',
-      'game dev',
-      'web dev',
-    ].pick_random()
-  )
+"I'm currently doing some %s." % \
+    [ "illustration", "game dev", "web dev" ].pick_random()
 ```
 <!-- <ICONS> -->
 

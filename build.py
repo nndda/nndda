@@ -51,7 +51,7 @@ for n in badge_stack:
 
 # ICONS -----------------------------------------------------------------------
 # use SimpleIcons CDN instead of downloading the icons
-icon_cdn = not force_update
+icon_cdn = True
 # icon size in pixels to be applied in "width" and "height" attributes
 icon_size = 28
 # directory for the downloaded icons
@@ -70,7 +70,7 @@ icon_stack = [
         ["javascript",      "JavaScript",],
         ["typescript",      "TypeScript",],
         ["sass",            "SASS",],
-        # ["csharp",          "C#",],
+        # ["csharp",          "C#",], removed from simple-icons. microsoft is stinky poopy
         # ["cplusplus",       "C++",],
         # ["wolframlanguage", "Wolfram Language",],
     ],
@@ -85,10 +85,10 @@ icon_stack = [
         ["aseprite",            "Aseprite",],
         ["inkscape",            "Inkscape",],
         # ["sublimetext",         "Sublime Text",],
+        ["git",                 "Git",],
         ["nodedotjs",           "Node.js",],
         ["webpack",             "webpack",],
         # ["jekyll",              "Jekyll",],
-        # ["visualstudiocode",    "Visual Studio Code",],
     ],
 },
 ]
@@ -207,19 +207,20 @@ def gradient(length, col_1, col_2):
     output[0] = output[0][0:-2] + "ff"
     return output
 
-url_si = "https://simpleicons.org/icons/"
+url_si = "https://cdn.simpleicons.org/"
 
 # Generate icons
 def icon_color(filepath, color):
-    data = fetch_data(f"{url_si}{filepath}.svg", filepath, icons_output_dir)
+    data = fetch_data(f"{url_si}{filepath}", filepath, icons_output_dir)
 
-    soup = BeautifulSoup(data, "xml")
-    soup.svg["fill"] = color
+    if data != "":
+        soup = BeautifulSoup(data, "xml")
+        soup.svg["fill"] = color
 
-    filename = f"{icons_output_dir}{filepath}.svg"
-    file_write = open(filename, "w")
-    file_write.write(soup.prettify())
-    file_write.close()
+        filename = f"{icons_output_dir}{filepath}.svg"
+        file_write = open(filename, "w")
+        file_write.write(soup.prettify())
+        file_write.close()
 
 md_icons = ""
 
