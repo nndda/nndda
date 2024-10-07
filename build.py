@@ -21,29 +21,20 @@ badge_default = {
 }
 
 badge_stack = {
-  "ko-fi" : {
-    "url"         : "https://ko-fi.com/L3L536B9Z",
-    "text"        : "Buy Me a Coffee",
-    "textColor"   : "FF5E5B",
-    "logo"        : "kofi",
-    "logoColor"   : "FFFFFF",
-  },
-  "itchio" : {
-    "url"         : "https://nnda.itch.io",
-    "text"        : "Games I made",
-    "textColor"   : "F82A2A",
-    "logo"        : "itchdotio",
-    "logoColor"   : "FFFFFF",
-  },
-  "discord" : {
-    "text"        : "nnda.dev",
-    "textColor"   : "FFFFFF",
-    "logo"        : "discord",
-    "logoColor"   : "FFFFFF",
-    "label"       : "Discord",
-    "labelColor"  : "101217",
-    "height"      : 28,
-  },
+  # "ko-fi" : {
+  #   "url"         : "https://ko-fi.com/L3L536B9Z",
+  #   "text"        : "Buy Me a Coffee",
+  #   "textColor"   : "FF5E5B",
+  #   "logo"        : "kofi",
+  #   "logoColor"   : "FFFFFF",
+  # },
+  # "itchio" : {
+  #   "url"         : "https://nnda.itch.io",
+  #   "text"        : "Games I made",
+  #   "textColor"   : "F82A2A",
+  #   "logo"        : "itchdotio",
+  #   "logoColor"   : "FFFFFF",
+  # },
 }
 
 for n in badge_stack:
@@ -51,7 +42,7 @@ for n in badge_stack:
 
 # ICONS -----------------------------------------------------------------------
 # use SimpleIcons CDN instead of downloading the icons
-icon_cdn = True
+icon_cdn = False
 # icon size in pixels to be applied in "width" and "height" attributes
 icon_size = 28
 # directory for the downloaded icons
