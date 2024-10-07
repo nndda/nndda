@@ -1,15 +1,3 @@
-<div>
-  <a href="https://nnda.itch.io">🕹️&nbsp;itch.io</a>
-  &nbsp;
-  •
-  &nbsp;
-  <a href="https://ko-fi.com/L3L536B9Z">☕&nbsp;Ko-fi</a>
-  &nbsp;
-  •
-  &nbsp;
-  <a href="https://www.artstation.com/nnda">🎨&nbsp;ArtStation</a>
-</div>
-
 <div align="center">
   <img src="yellow_stripes.svg" alt="yellow stripes"/>
 </div>
@@ -44,5 +32,13 @@
 </br>
 
 <div align="right">
-  <img height="28"  src="./badges/discord.svg" alt="Discord - nnda.dev"/>
+  <a href="https://nnda.itch.io">🕹️&nbsp;itch.io</a>
+  &nbsp;
+  •
+  &nbsp;
+  <a href="https://ko-fi.com/L3L536B9Z">☕&nbsp;Ko-fi</a>
+  &nbsp;
+  •
+  &nbsp;
+  <a href="https://www.artstation.com/nnda">🎨&nbsp;ArtStation</a>
 </div>
