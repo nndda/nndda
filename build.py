@@ -52,7 +52,7 @@ icon_stack = [
 {
     "heading" : "Languages",  # Heading text
     "col_1" : "#3BE6F9FF",  # Gradient start color
-    "col_2" : "#287BEBFF",  # Gradient end color
+    "col_2" : "#2870EBFF",  # Gradient end color
     "icons" : [
         # SimpleIcons slug, alt, url
         ["python",          "Python",],
@@ -60,6 +60,7 @@ icon_stack = [
         ["css3",            "CSS 3",],
         ["javascript",      "JavaScript",],
         ["typescript",      "TypeScript",],
+        ["handlebarsdotjs", "Handlebars.js",],
         ["sass",            "SASS",],
         # ["csharp",          "C#",], removed from simple-icons. microsoft is stinky poopy
         # ["cplusplus",       "C++",],
