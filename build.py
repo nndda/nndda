@@ -119,7 +119,7 @@ def build_img_tag(src, width="", height="", alt="", url=""):
     if height != "":
         height = f"height=\"{height}\""
 
-    output += f"<img {height} {width} src=\"{src}\" alt=\"{alt}\"/>"
+    output += f"<img {height} {width} src=\"{src}\" title=\"{alt}\" alt=\"{alt}\"/>"
 
     if url != "":
         output += "</a>"
