@@ -9,24 +9,24 @@
 
 ## Languages
 &nbsp;
-<img height="28" width="28" src="icons/python.svg" alt="Python"/> &nbsp;
-<img height="28" width="28" src="icons/html5.svg" alt="HTML 5"/> &nbsp;
-<img height="28" width="28" src="icons/css3.svg" alt="CSS 3"/> &nbsp;
-<img height="28" width="28" src="icons/javascript.svg" alt="JavaScript"/> &nbsp;
-<img height="28" width="28" src="icons/typescript.svg" alt="TypeScript"/> &nbsp;
-<img height="28" width="28" src="icons/handlebarsdotjs.svg" alt="Handlebars.js"/> &nbsp;
-<img height="28" width="28" src="icons/sass.svg" alt="SASS"/> &nbsp;
+<img height="28" width="28" src="icons/python.svg" title="Python" alt="Python"/> &nbsp;
+<img height="28" width="28" src="icons/html5.svg" title="HTML 5" alt="HTML 5"/> &nbsp;
+<img height="28" width="28" src="icons/css3.svg" title="CSS 3" alt="CSS 3"/> &nbsp;
+<img height="28" width="28" src="icons/javascript.svg" title="JavaScript" alt="JavaScript"/> &nbsp;
+<img height="28" width="28" src="icons/typescript.svg" title="TypeScript" alt="TypeScript"/> &nbsp;
+<img height="28" width="28" src="icons/handlebarsdotjs.svg" title="Handlebars.js" alt="Handlebars.js"/> &nbsp;
+<img height="28" width="28" src="icons/sass.svg" title="SASS" alt="SASS"/> &nbsp;
 <br>
 ## Tools & Frameworks
 &nbsp;
-<img height="28" width="28" src="icons/godotengine.svg" alt="Godot Engine"/> &nbsp;
-<img height="28" width="28" src="icons/medibangpaint.svg" alt="MediBang Paint"/> &nbsp;
-<img height="28" width="28" src="icons/aseprite.svg" alt="Aseprite"/> &nbsp;
-<img height="28" width="28" src="icons/inkscape.svg" alt="Inkscape"/> &nbsp;
-<img height="28" width="28" src="icons/linux.svg" alt="Linux"/> &nbsp;
-<img height="28" width="28" src="icons/git.svg" alt="Git"/> &nbsp;
-<img height="28" width="28" src="icons/nodedotjs.svg" alt="Node.js"/> &nbsp;
-<img height="28" width="28" src="icons/webpack.svg" alt="webpack"/> &nbsp;
+<img height="28" width="28" src="icons/godotengine.svg" title="Godot Engine" alt="Godot Engine"/> &nbsp;
+<img height="28" width="28" src="icons/medibangpaint.svg" title="MediBang Paint" alt="MediBang Paint"/> &nbsp;
+<img height="28" width="28" src="icons/aseprite.svg" title="Aseprite" alt="Aseprite"/> &nbsp;
+<img height="28" width="28" src="icons/inkscape.svg" title="Inkscape" alt="Inkscape"/> &nbsp;
+<img height="28" width="28" src="icons/linux.svg" title="Linux" alt="Linux"/> &nbsp;
+<img height="28" width="28" src="icons/git.svg" title="Git" alt="Git"/> &nbsp;
+<img height="28" width="28" src="icons/nodedotjs.svg" title="Node.js" alt="Node.js"/> &nbsp;
+<img height="28" width="28" src="icons/webpack.svg" title="webpack" alt="webpack"/> &nbsp;
 <br>
 
 </br>
