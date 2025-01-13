@@ -11,7 +11,7 @@
 &nbsp;
 <img height="28" width="28" src="icons/python.svg" title="Python" alt="Python"/> &nbsp;
 <img height="28" width="28" src="icons/html5.svg" title="HTML 5" alt="HTML 5"/> &nbsp;
-<img height="28" width="28" src="icons/css3.svg" title="CSS 3" alt="CSS 3"/> &nbsp;
+<img height="28" width="28" src="icons/css.svg" title="CSS" alt="CSS"/> &nbsp;
 <img height="28" width="28" src="icons/javascript.svg" title="JavaScript" alt="JavaScript"/> &nbsp;
 <img height="28" width="28" src="icons/typescript.svg" title="TypeScript" alt="TypeScript"/> &nbsp;
 <img height="28" width="28" src="icons/handlebarsdotjs.svg" title="Handlebars.js" alt="Handlebars.js"/> &nbsp;

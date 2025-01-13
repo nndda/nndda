@@ -57,7 +57,7 @@ icon_stack = [
         # SimpleIcons slug, alt, url
         ["python",          "Python",],
         ["html5",           "HTML 5",],
-        ["css3",            "CSS 3",],
+        ["css",             "CSS",],
         ["javascript",      "JavaScript",],
         ["typescript",      "TypeScript",],
         ["handlebarsdotjs", "Handlebars.js",],
