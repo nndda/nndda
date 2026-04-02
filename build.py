@@ -56,12 +56,13 @@ icon_stack = [
     "icons" : [
         # SimpleIcons slug, alt, url
         ["python",          "Python",],
-        ["html5",           "HTML 5",],
+        #;["html5",           "HTML 5",],
         ["css",             "CSS",],
+        ["sass",            "SASS",],
         ["javascript",      "JavaScript",],
         ["typescript",      "TypeScript",],
-        ["handlebarsdotjs", "Handlebars.js",],
-        ["sass",            "SASS",],
+        # ["handlebarsdotjs", "Handlebars.js",],
+        ["rust",            "Rust",],
         # ["csharp",          "C#",], removed from simple-icons. microsoft is stinky poopy
         # ["cplusplus",       "C++",],
         # ["wolframlanguage", "Wolfram Language",],
@@ -78,9 +79,11 @@ icon_stack = [
         ["inkscape",            "Inkscape",],
         # ["sublimetext",         "Sublime Text",],
         ["linux",               "Linux",],
-        ["git",                 "Git",],
+        # ["git",                 "Git",],
         ["nodedotjs",           "Node.js",],
+        ["bun",                 "Bun",],
         ["webpack",             "webpack",],
+        ["svelte",              "Svelte",],
         # ["jekyll",              "Jekyll",],
     ],
 },
@@ -89,7 +92,7 @@ icon_stack = [
 for d in [icons_output_dir, badges_output_dir]:
     os.makedirs(d, exist_ok=True)
 
-def fetch_data(url, filepath, output_dir, extension = "svg", content_type = "image/svg+xml"):
+def fetch_data(url, filepath, output_dir, extension = "svg", content_ype = "image/svg+xml"):
     data = ""
     filename = f"{output_dir}{filepath}.{extension}"
 
