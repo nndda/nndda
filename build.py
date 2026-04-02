@@ -56,12 +56,13 @@ icon_stack = [
     "icons" : [
         # SimpleIcons slug, alt, url
         ["python",          "Python",],
-        ["html5",           "HTML 5",],
+        #;["html5",           "HTML 5",],
         ["css",             "CSS",],
+        ["sass",            "SASS",],
         ["javascript",      "JavaScript",],
         ["typescript",      "TypeScript",],
-        ["handlebarsdotjs", "Handlebars.js",],
-        ["sass",            "SASS",],
+        # ["handlebarsdotjs", "Handlebars.js",],
+        ["rust",            "Rust",],
         # ["csharp",          "C#",], removed from simple-icons. microsoft is stinky poopy
         # ["cplusplus",       "C++",],
         # ["wolframlanguage", "Wolfram Language",],
@@ -78,9 +79,11 @@ icon_stack = [
         ["inkscape",            "Inkscape",],
         # ["sublimetext",         "Sublime Text",],
         ["linux",               "Linux",],
-        ["git",                 "Git",],
+        # ["git",                 "Git",],
         ["nodedotjs",           "Node.js",],
+        ["bun",                 "Bun",],
         ["webpack",             "webpack",],
+        ["svelte",              "Svelte",],
         # ["jekyll",              "Jekyll",],
     ],
 },
@@ -200,11 +203,12 @@ def gradient(length, col_1, col_2):
     output[0] = output[0][0:-2] + "ff"
     return output
 
-url_si = "https://cdn.simpleicons.org/"
+# url_si = "https://cdn.simpleicons.org/"
+url_si = "https://raw.githubusercontent.com/simple-icons/simple-icons/refs/tags/16.14.0/icons/"
 
 # Generate icons
 def icon_color(filepath, color):
-    data = fetch_data(f"{url_si}{filepath}", filepath, icons_output_dir)
+    data = fetch_data(f"{url_si}{filepath}.svg", filepath, icons_output_dir)
 
     if data != "":
         soup = BeautifulSoup(data, "xml")
