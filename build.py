@@ -92,7 +92,7 @@ icon_stack = [
 for d in [icons_output_dir, badges_output_dir]:
     os.makedirs(d, exist_ok=True)
 
-def fetch_data(url, filepath, output_dir, extension = "svg", content_ype = "image/svg+xml"):
+def fetch_data(url, filepath, output_dir, extension = "svg", content_type = "image/svg+xml"):
     data = ""
     filename = f"{output_dir}{filepath}.{extension}"
 
