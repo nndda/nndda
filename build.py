@@ -203,11 +203,12 @@ def gradient(length, col_1, col_2):
     output[0] = output[0][0:-2] + "ff"
     return output
 
-url_si = "https://cdn.simpleicons.org/"
+# url_si = "https://cdn.simpleicons.org/"
+url_si = "https://raw.githubusercontent.com/simple-icons/simple-icons/refs/tags/16.14.0/icons/"
 
 # Generate icons
 def icon_color(filepath, color):
-    data = fetch_data(f"{url_si}{filepath}", filepath, icons_output_dir)
+    data = fetch_data(f"{url_si}{filepath}.svg", filepath, icons_output_dir)
 
     if data != "":
         soup = BeautifulSoup(data, "xml")
