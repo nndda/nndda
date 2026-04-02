@@ -1,6 +1,5 @@
 <img width="2850" height="1053" alt="image" src="https://github.com/user-attachments/assets/64557c61-d671-47d7-9f5e-3dcf47fd88ea" />
 
-
 <div align="center">
   <img src="yellow_stripes.svg" alt="yellow stripes"/>
 </div>
@@ -13,12 +12,11 @@
 ## Languages
 &nbsp;
 <img height="28" width="28" src="icons/python.svg" title="Python" alt="Python"/> &nbsp;
-<img height="28" width="28" src="icons/html5.svg" title="HTML 5" alt="HTML 5"/> &nbsp;
 <img height="28" width="28" src="icons/css.svg" title="CSS" alt="CSS"/> &nbsp;
+<img height="28" width="28" src="icons/sass.svg" title="SASS" alt="SASS"/> &nbsp;
 <img height="28" width="28" src="icons/javascript.svg" title="JavaScript" alt="JavaScript"/> &nbsp;
 <img height="28" width="28" src="icons/typescript.svg" title="TypeScript" alt="TypeScript"/> &nbsp;
-<img height="28" width="28" src="icons/handlebarsdotjs.svg" title="Handlebars.js" alt="Handlebars.js"/> &nbsp;
-<img height="28" width="28" src="icons/sass.svg" title="SASS" alt="SASS"/> &nbsp;
+<img height="28" width="28" src="icons/rust.svg" title="Rust" alt="Rust"/> &nbsp;
 <br>
 ## Tools & Frameworks
 &nbsp;
@@ -27,9 +25,10 @@
 <img height="28" width="28" src="icons/aseprite.svg" title="Aseprite" alt="Aseprite"/> &nbsp;
 <img height="28" width="28" src="icons/inkscape.svg" title="Inkscape" alt="Inkscape"/> &nbsp;
 <img height="28" width="28" src="icons/linux.svg" title="Linux" alt="Linux"/> &nbsp;
-<img height="28" width="28" src="icons/git.svg" title="Git" alt="Git"/> &nbsp;
 <img height="28" width="28" src="icons/nodedotjs.svg" title="Node.js" alt="Node.js"/> &nbsp;
+<img height="28" width="28" src="icons/bun.svg" title="Bun" alt="Bun"/> &nbsp;
 <img height="28" width="28" src="icons/webpack.svg" title="webpack" alt="webpack"/> &nbsp;
+<img height="28" width="28" src="icons/svelte.svg" title="Svelte" alt="Svelte"/> &nbsp;
 <br>
 
 </br>
