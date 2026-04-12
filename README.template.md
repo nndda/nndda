@@ -6,14 +6,22 @@
 
 ```gdscript
 "I'm currently doing some %s." % \
-    [ "illustration", "game dev", "web dev" ].pick_random()
+    [ 'illustration', 'game dev', 'web dev' ].pick_random()
 ```
+
+<div align="center">
+  ≈ >ω< ≈
+</div>
+
 <!-- <ICONS> -->
 
 </br>
 </br>
 
 <div align="right">
+  (っ◔◡◔)っ ♥
+  &nbsp;
+  &nbsp;
   <a target="_blank" href="https://nnda.itch.io">🕹️&nbsp;itch.io</a>
   &nbsp;
   •
