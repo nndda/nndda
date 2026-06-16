@@ -1,4 +1,3 @@
-[ Offline until June 21st ]
 
 <img width="2850" height="1053" alt="image" src="https://github.com/user-attachments/assets/64557c61-d671-47d7-9f5e-3dcf47fd88ea" />
 
