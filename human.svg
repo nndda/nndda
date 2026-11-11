@@ -1,0 +1,72 @@
+<!--
+    Copyright 2023-2026 nnda <talk@nnda.dev>
+
+    SPDX-License-Identifier: CC0-1.0
+-->
+<svg
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  width="150"
+  height="34"
+  viewBox="0 0 150 34"
+>
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style xmlns="http://www.w3.org/1999/xhtml">
+        #badge {
+          display: flex;
+          justify-content: center;
+
+          height: 26px;
+          line-height: 26px;
+          padding: 4px 12px;
+
+          background: #0c0c09;
+          color: #eeeeee;
+
+          border-radius: 6px;
+
+          font-family: monospace;
+        }
+
+        .word-carousel {
+          display: inline-flex;
+          flex-direction: column;
+
+          margin-left: 8px;
+
+          overflow: hidden;
+        }
+
+        .word-carousel > div {
+          color: #f5cf0e;
+          font-weight: 700;
+          height: 26px;
+          animation: word-carousel-2 3.5s infinite;
+        }
+
+        .word-carousel > div:first-child {
+          color: #fc3a78;
+        }
+
+        @keyframes word-carousel-2 {
+          0%, 40% {
+            translate: 0;
+          }
+
+          50%, 90% {
+            translate: 0 -26px;
+          }
+        }
+      </style>
+
+      <div id="badge">
+        Made
+        <div class="word-carousel">
+          <div>with ♥︎</div>
+          <div>by human</div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
